@@ -88,7 +88,7 @@ ggplot(book_words, aes(n/total, fill = Book)) + geom_histogram(show.legend = FAL
 facet_wrap(~Book, ncol = 2, scales = "free_y")
 ```
 
-![](Preparations_lst_files/figure-html/unnamed-chunk-2-1.png)<!-- -->
+![](https://github.com/oztop/arabictextanalysis/blob/master/unnamed-chunk-1-1.png)<!-- -->
 
 
 
