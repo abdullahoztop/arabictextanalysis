@@ -1,13 +1,6 @@
 ---
-title: "doha"
-subtitle: ""
-author: ""
-date: '2020-04-11'
-fig_width: 6 
-fig_height: 4 
-output: 
-  html_document:
-    keep_md: true
+
+
 ---
 
 
